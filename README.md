@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Poellz
+## 👋 Hi, I’m Poellz
 - 👀 I’m interested in in UX/UI design and development
 - 🌱 I’m currently learning HTML, CSS and Javascript 
 - 💞️ I’m looking to collaborate on ...
