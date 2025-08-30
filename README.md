@@ -20,8 +20,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Poellz&theme=codeSTACKr&hide_border=true)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Poellz&layout=compact&theme=codeSTACKr&hide_border=true)
-
 ## Contributions
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Poellz&repo=dio-lab-open-source&theme=codeSTACKr&hide_border=true)](https://github.com/Poellz/dio-lab-open-source)
